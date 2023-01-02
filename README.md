@@ -1,6 +1,8 @@
 <h1> Desafio: Aprenda na Prática Programação Orientada a Objetos</h1>
 
-<h2>🛑 Pré-Requisitos</h2>
+<p> Este projeto foi realizado para entrega de um desafio do bootcamp de Quality Assurance da Dio com GFT com o objetivo de comprovar os conhecimentos adquiridos em Programacão Orientada a Objetos.
+
+<h2> Pré-Requisitos</h2>
 
 <p>
 ✅ Conhecer a sintaxe da Java<br>
@@ -10,7 +12,7 @@
 </p>
 
 
-<h2> 👣 Passo-a-Passo</h2>
+<h2> Passo-a-Passo</h2>
 
 <p>
 <strong>	1.</strong> Abstrair o domínio Bootcamp e modelar seus atributos e métodos. <br>
